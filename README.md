@@ -1,7 +1,7 @@
 
 ## Demo
 
-<[https://bharathk113.github.io/our-invite](https://siddheshkankal.github.io/Engagement_Invite/)>
+<(https://siddheshkankal.github.io/Engagement_Invite/)>
 
 ## Tech stack
 
